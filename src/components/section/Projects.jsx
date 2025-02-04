@@ -1,7 +1,7 @@
 import React from "react";
 import { NavLink } from "react-router-dom";
 import SolidDental from "../../assets/images/sadaf-dental.png";
-import RTMedline from "../../assets/images/RTMedline.png";
+import RTMedline from "../../assets/images/rtmedline.png";
 import TezTaxi from "../../assets/images/tez-taxi.png";
 import ServesKotlov from "../../assets/images/serveskotov.png";
 import AkaTaxi from "../../assets/images/aka-taxi.png";
