@@ -1,6 +1,6 @@
 import React from "react";
 import FooterLogo from "../../assets/images/FooterLogo.svg";
-import TopIcon from "../../assets/images/Top.svg";
+import TopIcon from "../../assets/images/top.svg";
 
 function Footer() {
   return (
